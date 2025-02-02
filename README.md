@@ -1,0 +1,2 @@
+# zipkinreceiverhealthcheckable
+Experimental Forked from opentelemetry-collector-contrib
